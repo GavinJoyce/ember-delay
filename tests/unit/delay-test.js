@@ -3,11 +3,10 @@ import { test } from 'ember-qunit';
 
 module('delay');
 
-asyncTest('it returns a promise which resolves', function() {
+test('it returns a promise which resolves', function() {
   expect(1);
 
-  delay(100).then(function() {
+  return delay(100).then(function() {
     ok(true);
-    start();
   });
 });
