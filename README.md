@@ -10,7 +10,7 @@ Questions? Ping me [@gavinjoyce](https://twitter.com/gavinjoyce)
 
 This is an Ember CLI addon so all you need to do is
 
-`npm install ember-component-inbound-actions --save`
+`npm install ember-delay --save`
 
 ## Usage Instructions
 
