@@ -1,6 +1,6 @@
 {
   "name": "ember-delay",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Creates a promise which resolves after a specified delay",
   "directories": {
     "doc": "doc",
