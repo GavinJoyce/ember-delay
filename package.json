@@ -1,6 +1,6 @@
 {
   "name": "ember-delay",
-  "version": "0.0.4",
+  "version": "0.1.0",
   "description": "Creates a promise which resolves after a specified delay",
   "keywords": [
     "ember-addon"
