@@ -1,5 +1,7 @@
 # ember-delay
 
+**NOTE:** This addon is deprecated. Please use [`import { timeout } from 'ember-concurrency'`](http://ember-concurrency.com/) instead. 
+
 [![Build Status](https://travis-ci.org/GavinJoyce/ember-delay.svg)](https://travis-ci.org/GavinJoyce/ember-delay)
 
 Create promises which resolve after a specified delay
